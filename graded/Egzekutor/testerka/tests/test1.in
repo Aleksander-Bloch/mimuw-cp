@@ -1,0 +1,14 @@
+run ./arithmetic 3 5 1
+sleep 200
+run ./countdown 4
+out 0
+sleep 900
+out 0
+out 1
+sleep 1500
+out 1
+kill 0
+sleep 3000
+out 0
+out 1
+quit

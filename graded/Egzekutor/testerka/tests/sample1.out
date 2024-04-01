@@ -1,0 +1,10 @@
+Task 0 started: pid P.
+Task 1 started: pid P.
+Task 0 stdout: ''.
+Task 0 stdout: '5'.
+Task 1 stdout: ''.
+Task 1 stdout: '3'.
+Task 0 ended: status X. 
+Task 1 ended: status X. 
+Task 0 stdout: '6'.
+Task 1 stdout: '0'.
