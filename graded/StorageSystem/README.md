@@ -1,8 +1,6 @@
-Programowanie Współbieżne 2023/24: Duże zadanie zaliczeniowe (Java)
+# Programowanie Współbieżne 2023/2024
 
-##### Programowanie Współbieżne 2023/2024
-
-###### Zadanie zaliczeniowe ze współbieżności w języku Java
+## Zadanie zaliczeniowe ze współbieżności w języku Java
 
 Systemy składowania danych (ang. _storage systems_) muszą jednocześnie spełniać wiele wymagań dotyczących w szczególności wydajności operacji dostępu do danych, wykorzystania pojemności nośników danych oraz odporności na awarie urządzeń będących tymi nośnikami. W tym celu często przenoszą fragmenty danych pomiędzy poszczególnymi urządzeniami. Twoim zadaniem będzie implementacja w języku Java mechanizmów koordynujących współbieżne operacje takiego przenoszenia zgodnie z poniższymi wymaganiami. Do implementacji rozwiązania należy wykorzystać [załączony szablon](https://www.mimuw.edu.pl/~iwanicki/courses/cp/2023/ab123456.zip).
 
